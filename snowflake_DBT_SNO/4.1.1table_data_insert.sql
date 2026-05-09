@@ -30,4 +30,4 @@ INSERT INTO LOK_ORDER_ITEMS VALUES
 (24, 1024, 124, 1),
 (25, 1025, 125, 1);
 
-------lokesh commiting
+------lokesh commiting-- lokesh commented
